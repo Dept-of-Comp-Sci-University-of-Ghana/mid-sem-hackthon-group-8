@@ -4,6 +4,7 @@
 
 # **Dependencies**
 ### Install the imblearn dependencies
+## Intall pytest
 ### Import the the needed libraries
 
 # **Runtime**
